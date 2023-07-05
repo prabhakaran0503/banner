@@ -1,0 +1,97 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:bordar-box;
+	}
+.contanar {
+		width:100%;
+		margin:auto;
+		
+}
+/*.col {
+		width:40%;
+		background-color:#031f42;
+		height:100vh;
+		color:#ffffff;
+}*/
+
+		
+		
+		
+
+.service {background-image:url(../image/banner-image.jpg);
+				height:100vh;
+				background-position:center;
+				background-repeat:no-repeat;
+				background-size:cover;
+				
+				background:linear-gradient
+}
+h1{
+	/*font-size:50px;*/
+	
+	padding:70px 40px 30px 60px;
+}
+#bop p	 {
+	
+	
+	font-size:20px;
+}
+button{
+		/*padding:10px 10px;*/
+		
+		background-color:#7bcbd4;
+		
+		border-radius:40px;
+		
+		border:none;
+		text-align:center;
+		
+}
+#bui {
+		display:flex;
+		padding:60px;
+		padding-left:60px;
+		
+	
+		
+}
+#bui span{
+		color:#ffffff;
+		font-size:20px;
+		padding:6px;
+		
+}
+#bop{
+	border-left:2px solid #7bcbd4;
+	padding-left:5%;
+	margin-left:60px;
+	}
+.icons{
+		font-size:30px;
+		align-items:center;
+		background-color:;
+		padding-left:10%;
+		}
+		
+.icons i{
+		background-color:#7bcbd4;
+		border-radius:50%;
+		
+		
+		}		
+		
+	
+	
+	/* cards*/
+	
+	
+	
+		
+        
+
+
+
+				
+				
+					
